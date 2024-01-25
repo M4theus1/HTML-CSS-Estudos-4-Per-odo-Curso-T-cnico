@@ -1,0 +1,102 @@
+@charset "UTF-8";
+
+body{
+    background-color: cornflowerblue;
+}
+
+figure.produtos figcaption{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+}
+
+figure.sair img{
+    margin-top: -200px;
+    margin-left: 1350px;
+    margin-bottom: 50px;
+}
+
+figure.sair figcaption{
+    margin-top: -53px;
+    margin-left: 1361px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+}
+
+.conteiner{
+    width: 1300px;
+    margin: auto;
+    position: relative;
+}
+
+.conteiner img{
+    width: 100%;
+
+}
+
+div.codigo{
+    position: absolute;
+    bottom: 450px;
+    text-align: center;
+    padding: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+div.ean{
+    margin-left: 350px;
+    position: absolute;
+    bottom: 450px;
+    text-align: center;
+    padding: 10px;
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+div.fornecedor{
+    margin-left: 600px;
+    position: absolute;
+    bottom: 450px;
+    text-align: center;
+    padding: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+div.datacadastro{
+    margin-left: 880px;
+    position: absolute;
+    bottom: 450px;
+    text-align: center;
+    padding: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+div.qtd{
+    margin-left: 52px;
+    position: absolute;
+    bottom: 380px;
+    text-align: center;
+    padding: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+div.valor{
+    margin-left: 350px;
+    position: absolute;
+    bottom: 380px;
+    text-align: center;
+    padding: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+button#salvar{
+    margin-left: 1100px;
+    position: absolute;
+    bottom: 40px;
+    background: cornflowerblue;
+    color: white;
+    border-style: outset;
+    border-color: cornflowerblue;
+    height: 50px;
+    width: 100px;
+    font: bold 15px arial, sans-serif;
+    text-shadow:none;
+    cursor: pointer;
+}

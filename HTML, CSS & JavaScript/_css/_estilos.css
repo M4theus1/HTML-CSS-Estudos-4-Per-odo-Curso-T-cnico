@@ -1,0 +1,58 @@
+body{
+    background-color:cornflowerblue;
+}
+
+div#background{
+    font-family:monospace;
+    font-size: 20px;
+    color: aliceblue;
+    text-align: center;
+
+}
+
+div#background img{
+    text-align: center;
+    margin-top: 200px;
+}
+
+ div#bloco1{
+    margin-top: -450px;
+    margin-bottom: 100px;
+    margin-left: 35px;
+    margin-right: 100px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+a link {
+    color: black;
+    text-decoration: none;
+}
+
+div#bloco2{
+margin-top: -170px;
+margin-left: 110px;
+font-family: Arial, Helvetica, sans-serif;
+font-size: 14px;
+}
+
+div#bloco3{
+    margin-top: -67px;
+    margin-left: 185px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    
+}
+
+div#bloco4{
+    margin-top: -67px;
+    margin-left: 265px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+}
+
+div#bloco5{
+    margin-top: -70px;
+    margin-left: 1400px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+}

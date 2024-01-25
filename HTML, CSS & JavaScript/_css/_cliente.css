@@ -1,0 +1,164 @@
+@charset "UTF-8";
+
+body{
+    background-color: cornflowerblue;
+}
+
+figure.cliente figcaption{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+}
+
+figure.sair img{
+    margin-top: -200px;
+    margin-left: 1350px;
+    margin-bottom: 50px;
+}
+
+figure.sair figcaption{
+    margin-top: -53px;
+    margin-left: 1361px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    text-decoration: none;
+}
+
+.conteiner{
+    width: 1300px;
+    margin: auto;
+    position: relative;
+}
+
+.conteiner img{
+    width: 100%;
+
+}
+
+figure.formato img{
+    width: 97%;
+    height: 97%;
+    margin-left: 10px;
+}
+
+div.Nome{
+    position: absolute;
+    bottom: 450px;
+    text-align: center;
+    padding: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+div.cpf{
+    margin-left: 350px;
+    position: absolute;
+    bottom: 450px;
+    text-align: center;
+    padding: 10px;
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+div.fisoujur{
+    margin-left: 650px;
+    position: absolute;
+    bottom: 450px;
+    text-align: center;
+    padding: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+div.apelido{
+    margin-left: 880px;
+    position: absolute;
+    bottom: 450px;
+    text-align: center;
+    padding: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+div.cep{
+    margin-left: 113px;
+    position: absolute;
+    bottom: 370px;
+    text-align: center;
+    padding: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+div.uf{
+    margin-left: 410px;
+    position: absolute;
+    bottom: 370px;
+    text-align: center;
+    padding: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+div.cidade{
+    margin-left: 643px;
+    position: absolute;
+    bottom: 370px;
+    text-align: center;
+    padding: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+div.endereco{
+    margin-left: 900px;
+    position: absolute;
+    bottom: 370px;
+    text-align: center;
+    padding: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+div.numero{
+    margin-left: 75px;
+    position: absolute;
+    bottom: 290px;
+    text-align: center;
+    padding: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+div.bairro{
+    margin-left: 370px;
+    position: absolute;
+    bottom: 290px;
+    text-align: center;
+    padding: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+div.contato{
+    margin-left: 629px;
+    position: absolute;
+    bottom: 290px;
+    text-align: center;
+    padding: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+div.email{
+    margin-left: 939px;
+    position: absolute;
+    bottom: 290px;
+    text-align: center;
+    padding: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+button#salvar{
+    margin-left: 1100px;
+    position: absolute;
+    bottom: 40px;
+    background: cornflowerblue;
+    color: white;
+    border-style: outset;
+    border-color: cornflowerblue;
+    height: 50px;
+    width: 100px;
+    font: bold 15px arial, sans-serif;
+    text-shadow:none;
+    cursor: pointer;
+}

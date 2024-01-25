@@ -1,0 +1,138 @@
+@charset "UTF-8";
+
+body{
+    background-color: cornflowerblue;
+}
+
+figure.vendas figcaption{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+}
+
+figure.sair img{
+    margin-top: -200px;
+    margin-left: 1350px;
+    margin-bottom: 50px;
+}
+
+figure.sair figcaption{
+    margin-top: -53px;
+    margin-left: 1361px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+}
+
+figure.formato img{
+    width: 97%;
+    height: 97%;
+    margin-left: 10px;
+}
+
+.conteiner{
+    width: 1300px;
+    margin: auto;
+    position: relative;
+}
+
+.conteiner img{
+    width: 100%;
+}
+
+div.idfun{
+    position: absolute;
+    bottom: 450px;
+    text-align: center;
+    padding: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+div.cpfcli{
+    margin-left: 350px;
+    position: absolute;
+    bottom: 450px;
+    text-align: center;
+    padding: 10px;
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+div.cepcli{
+    margin-left: 650px;
+    position: absolute;
+    bottom: 450px;
+    text-align: center;
+    padding: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+div.idprod{
+    margin-left: 880px;
+    position: absolute;
+    bottom: 450px;
+    text-align: center;
+    padding: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+div.qtd{
+    margin-left: 23px;
+    position: absolute;
+    bottom: 370px;
+    text-align: center;
+    padding: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+div.x{
+    font-family: Arial, Helvetica, sans-serif;
+    box-shadow: 1px 1px 1px 1px;
+    font-style: italic;
+    color: black;
+    margin-left: 340px;
+    position: absolute;
+    bottom: 380px;
+    text-align: center;
+}
+
+div.valor{
+    margin-left: 358px;
+    position: absolute;
+    bottom: 370px;
+    text-align: center;
+    padding: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+div.total{
+    margin-left: 650px;
+    position: absolute;
+    bottom: 370px;
+    text-align: center;
+    padding: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+button#salvar{
+    margin-left: 1100px;
+    position: absolute;
+    bottom: 40px;
+    background: cornflowerblue;
+    color: white;
+    border-style: outset;
+    border-color: cornflowerblue;
+    height: 50px;
+    width: 100px;
+    font: bold 15px arial, sans-serif;
+    text-shadow:none;
+    cursor: pointer;
+}
+
+div.igual{
+    font-family: Arial, Helvetica, sans-serif;
+    box-shadow: 1px 1px 1px 1px;
+    font-style: italic;
+    color: black;
+    margin-left: 650px;
+    position: absolute;
+    bottom: 380px;
+    text-align: center;
+}
